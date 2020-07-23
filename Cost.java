@@ -7,7 +7,7 @@ package krill;
 
 /**
  *
- * @author vpcrc
+ * @author Jain Austin
  */
 public class Cost {
     public double cost_cal(double X)
